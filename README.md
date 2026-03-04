@@ -112,3 +112,9 @@ POST https://gmserver-api.aki-game2.net/gacha/record/query
 ```
 
 These are Kuro's own official endpoints — the same ones the game uses internally. Nothing else leaves your machine. Verify in `server/src/routes/sync.ts`.
+
+## Version History
+
+| Version | Status  |
+|---------|---------|
+| 3.1     | Working |
