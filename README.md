@@ -118,3 +118,4 @@ These are Kuro's own official endpoints — the same ones the game uses internal
 | Version | Status  |
 |---------|---------|
 | 3.1     | Working |
+| 3.2     | Working |
